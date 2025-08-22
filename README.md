@@ -28,7 +28,6 @@
 
 3.  **安装依赖**
     ```bash
-    # (根据你之前安装PyTorch的命令来写，例如)
     conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
     ```
 

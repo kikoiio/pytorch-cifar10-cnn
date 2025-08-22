@@ -1,1 +1,1 @@
-"# pytorch-cifar10-cnn" 
+"pytorch-cifar10-cnn" 

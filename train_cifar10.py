@@ -1,5 +1,3 @@
-# train_cifar10.py
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -86,4 +84,5 @@ def main():
     print('--- 测试结束 ---')
 
 if __name__ == '__main__':
+
     main()
